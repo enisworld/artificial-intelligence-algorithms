@@ -1,0 +1,13 @@
+Bazı Yapay zeka ile ilgili algoritmalar(Some algorithms about Artificial Intelligence(AI) )
+
+  - Gözlü yaklaşım(Greedy algorithm)
+
+  - A yıldız algoritması(A Star Algorithms)
+
+  - Sezgisel fonksiyonlar(Heuristic Algorithms)
+
+  - Tepe tırmanması(Hill Climbing algoritm)
+
+  - Yerel ışın araması(Beam Search)
+
+  - Genetik algoritması(Genetic Algorithm)

@@ -1,1 +1,1 @@
-# genetic_algorithm
+# artificial-intelligence activities

@@ -1,6 +1,7 @@
 Bazı Yapay zeka ile ilgili algoritmalar(Some algorithms about Artificial Intelligence(AI) )
 
   - Gözlü yaklaşım(Greedy algorithm)
+                Threat evaluation and weapon assignment decision support: A review of the state of the art
 
   - A yıldız algoritması(A Star Algorithms)
 

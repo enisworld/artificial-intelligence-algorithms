@@ -12,3 +12,12 @@ Bazı Yapay zeka ile ilgili algoritmalar(Some algorithms about Artificial Intell
   - Yerel ışın araması(Beam Search)
 
   - Genetik algoritması(Genetic Algorithm)
+  
+  
+  
+  
+  ---------------------------------------------------------------------------
+  
+  Bayes Çıkarımı
+  Dempster – Shafer Teorisi
+  Transfer Edilebilir İnanış Modeli 

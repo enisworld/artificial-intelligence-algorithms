@@ -17,7 +17,7 @@ Bazı Yapay zeka ile ilgili algoritmalar(Some algorithms about Artificial Intell
   
   
   ---------------------------------------------------------------------------
-  
-  Bayes Çıkarımı
-  Dempster – Shafer Teorisi
-  Transfer Edilebilir İnanış Modeli 
+  http://acikarsiv.ankara.edu.tr/browse/4287/
+    Bayes Çıkarımı
+    Dempster – Shafer Teorisi
+    Transfer Edilebilir İnanış Modeli 
